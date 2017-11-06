@@ -5,7 +5,7 @@ import TextField from 'material-ui/TextField';
 import RaisedButton from 'material-ui/RaisedButton';
 import IconButton from 'material-ui/IconButton';
 import MyLocationIcon from 'material-ui/svg-icons/maps/my-location';
-import {cyan500} from 'material-ui/styles/colors';
+import {cyan500, orange500, purple500} from 'material-ui/styles/colors';
 
 export default class CentreCoordinator extends Component {
 
